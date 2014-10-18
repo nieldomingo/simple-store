@@ -2,6 +2,10 @@
 
 A Clojure library designed to ... well, that part is up to you.
 
+## Docker Image
+
+https://registry.hub.docker.com/u/nieldomingo/simple-store/
+
 ## Usage
 
 FIXME
